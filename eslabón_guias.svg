@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (0f2f062aeb, 2022-09-21, custom)"
+   sodipodi:docname="eslabón_guias.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="0.72426346"
+     inkscape:cx="306.51829"
+     inkscape:cy="554.35628"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="0,117.19483"
+       orientation="1,0"
+       id="guide2056"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="fill_between_many"
+       method="originald"
+       linkedpaths="#path2540,0,1|#path2540-5,0,1"
+       id="path-effect3476" />
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect1528"
+       style="display:inline;opacity:0.99;fill:#aaaaff;stroke:#000000;stroke-width:1.365"
+       d="m 47.6973,129.3991 c -10.581906,0 -19.101161,8.51875 -19.101161,19.10064 0,10.58191 8.519255,19.10116 19.101161,19.10116 h 114.6054 c 10.58191,0 19.10116,-8.51925 19.10116,-19.10116 0,-10.58189 -8.51925,-19.10064 -19.10116,-19.10064 z m 8.781375,11.55434 a 7.5466151,7.5466151 0 0 1 7.546827,7.5463 7.5466151,7.5466151 0 0 1 -7.546827,7.54683 7.5466151,7.5466151 0 0 1 -7.546308,-7.54683 7.5466151,7.5466151 0 0 1 7.546308,-7.5463 z m 94.997815,0 a 7.5466151,7.5466151 0 0 1 7.54683,7.5463 7.5466151,7.5466151 0 0 1 -7.54683,7.54683 7.5466151,7.5466151 0 0 1 -7.54631,-7.54683 7.5466151,7.5466151 0 0 1 7.54631,-7.5463 z"
+       inkscape:label="Reto_2_eslavon" />
+  </g>
+</svg>
